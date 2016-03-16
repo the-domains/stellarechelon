@@ -1,0 +1,13 @@
+layout_spectrum: 0.9253491
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.2164339
+  brandColors:
+    - '#000000'
+    - '#919191'
+    - '#5C5C5C'
+    - '#FBFBFB'
+  rhythmicContrast: 0.726638
+typography_spectrum: 0.2733619
+name: StellarEchelon
